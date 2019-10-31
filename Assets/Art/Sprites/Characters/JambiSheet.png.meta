@@ -5,8 +5,16 @@ TextureImporter:
     21300000: JambiIdle1
     21300002: JambiIdle2
     21300004: JambiIdle3
+    21300006: JambiSheet_0
+    21300008: JambiSheet_1
+    21300010: JambiSheet_2
+    21300012: JambiSheet_3
+    21300014: JambiSheet_4
+    21300016: JambiSheet_5
+    21300018: JambiSheet_6
+    21300020: JambiSheet_7
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -87,61 +95,61 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JambiIdle1
+      name: JambiSheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
-        width: 256
-        height: 256
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1
+        y: 782
+        width: 253
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b9f29c444b3a0a488d9e380dd4e476f
+      spriteID: 3d13ba13fa22d354ba3f8cb0a8fd8ecc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JambiIdle2
+      name: JambiSheet_1
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
-        width: 256
-        height: 256
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 257
+        y: 782
+        width: 250
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac704b7ce23e935479b6b68735992ca3
+      spriteID: 0d4b085bed775d143b543224dbe855a5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JambiIdle3
+      name: JambiSheet_2
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
-        width: 256
-        height: 256
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 513
+        y: 782
+        width: 253
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caa29f31bb01b004a92b38edc46f72f3
+      spriteID: 8206e62ee5591ad4ba6adad4251c2e13
       vertices: []
       indices: 
       edges: []
@@ -154,7 +162,7 @@ TextureImporter:
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+  spritePackingTag: 4
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
